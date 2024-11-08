@@ -1,5 +1,12 @@
 # Ch. 3: Computer Vision and Natural Language Processing
 
+## Isi
+
+1. [Assignment Chapter 2 - Case 1 (02_Kelompok_B_1.ipynb)](#1-assignment-chapter-3---case-1)
+2. [Assignment Chapter 2 - Case 2 (02_Kelompok_B_2.ipynb)](#2-assignment-chapter-3---case-2)
+3. [Assignment Chapter 2 - Case 3 (02_Kelompok_B_3.ipynb)](#3-assignment-chapter-3---case-3)
+4. [Assignment Chapter 2 - Case 4 (02_Kelompok_B_4.ipynb)](#4-assignment-chapter-3---case-4)
+
 ## 1. Assignment Chapter 3 - Case 1
 
 ### Ringkasan Tugas
